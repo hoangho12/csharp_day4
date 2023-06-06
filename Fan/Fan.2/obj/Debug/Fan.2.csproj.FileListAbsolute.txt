@@ -1,0 +1,7 @@
+C:\Users\Cu200\source\repos\csharp_day4\Fan.2\Fan.2\bin\Debug\Fan.2.exe.config
+C:\Users\Cu200\source\repos\csharp_day4\Fan.2\Fan.2\bin\Debug\Fan.2.exe
+C:\Users\Cu200\source\repos\csharp_day4\Fan.2\Fan.2\bin\Debug\Fan.2.pdb
+C:\Users\Cu200\source\repos\csharp_day4\Fan.2\Fan.2\obj\Debug\Fan.2.csproj.AssemblyReference.cache
+C:\Users\Cu200\source\repos\csharp_day4\Fan.2\Fan.2\obj\Debug\Fan.2.csproj.CoreCompileInputs.cache
+C:\Users\Cu200\source\repos\csharp_day4\Fan.2\Fan.2\obj\Debug\Fan.2.exe
+C:\Users\Cu200\source\repos\csharp_day4\Fan.2\Fan.2\obj\Debug\Fan.2.pdb
